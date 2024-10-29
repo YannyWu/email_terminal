@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "Reception",
+    "iconName": "Monarch Symbol.png",
+    "terminalID": "22B",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "22B01",
+        "password": "M0nArcH",
+        "userName": "Alicia22B01"
     },
     "initialHistory": {
         "user": [
